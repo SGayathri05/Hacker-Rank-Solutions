@@ -1,2 +1,2 @@
 # Hacker-Rank-Solutions
-This repository contains solution for Hacker Rank programs
+This repository contains solution for Hacker Rank problems
